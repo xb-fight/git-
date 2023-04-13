@@ -5,12 +5,16 @@
 2. git add ./
 3. git commit
 
-## 查看状态
+## 分支操作
+git branch
+git checkout (branch)
 
+## 查看状态
 git satus 
 
 ## 设置远程仓库
 git remote add origin (remote store adreess)
+git remote rm origin
 
 ## 拉取文件
 git pull origin (branch)
