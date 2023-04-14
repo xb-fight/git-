@@ -6,8 +6,16 @@
 3. git commit
 
 ## 分支操作
-git branch
+git branch   
 git checkout (branch)
+> -a
+> -d
+> -r   
+git checkout -b (branch)    
+
+## 分支合并
+git merge (被合并的分支)  
+git rebase (被合并的分支)  
 
 ## 查看状态
 git satus 
